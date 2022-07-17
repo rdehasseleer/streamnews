@@ -1,0 +1,4 @@
+gnews
+streamlit
+pandas
+streamlit-aggrid
